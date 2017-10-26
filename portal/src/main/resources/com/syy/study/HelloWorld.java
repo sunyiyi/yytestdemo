@@ -1,4 +1,4 @@
 
 public interface HelloWorld {
-private int ab ;
+private int ab =7;
 }
